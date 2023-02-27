@@ -1,0 +1,6 @@
+bf
+dad
+gf
+bf-pixel
+bf-pixel-opponent
+gf-pixel
